@@ -1,0 +1,12 @@
+einops==0.8.0
+numpy==1.26.4
+pandas==2.2.2
+pillow==10.4.0
+scikit-learn==1.5.2
+scipy==1.13.1
+six==1.16.0
+sympy==1.13.3
+torch==2.2.2
+torchtext==0.17.2
+torchvision==0.17.2
+tqdm==4.66.5

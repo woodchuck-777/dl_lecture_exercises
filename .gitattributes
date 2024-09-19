@@ -1,0 +1,2 @@
+exercise04/data/x_train.npy filter=lfs diff=lfs merge=lfs -text
+exercise06/data/x_train.npy filter=lfs diff=lfs merge=lfs -text
